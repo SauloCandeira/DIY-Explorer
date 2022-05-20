@@ -18,7 +18,7 @@ O IHK-Drones é um projeto destinado a criação de drones artesanalmente.
 - Bateria: goo.gl/67zevM
 
 ### FONTE:
-
-
+Como fazer um DRONE CASEIRO
+url: https://www.youtube.com/watch?v=hbTvThjKlUk
 
 

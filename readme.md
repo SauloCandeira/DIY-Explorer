@@ -3,10 +3,17 @@ O IHK-Explorer é um projeto destinado a criação de drones artesanalmente (DIY
 o explorer vai ser o primeiro exemplar. Será utilizado por profissionais de agrimensura para explorar e mapear areas. 
 
 
-### FABRICAÇÃO
+### FABRICAÇÃO PLACA
 
 ```
 1º - Placa de Fenolite
+
+```
+
+### FABRICAÇÃO FRAME
+
+```
+1º - Projeto 3D
 
 ```
 

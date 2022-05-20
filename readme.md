@@ -1,5 +1,6 @@
 # Sobre o Projeto:
-O IHK-Drones é um projeto destinado a criação de drones artesanalmente.
+O IHK-Explorer é um projeto destinado a criação de drones artesanalmente (DIY),
+o explorer vai ser o primeiro exemplar. Será utilizado por profissionais de agrimensura para explorar e mapear areas. 
 
 
 ### FABRICAÇÃO
